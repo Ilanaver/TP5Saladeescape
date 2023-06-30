@@ -1,0 +1,15 @@
+<h1>Bienvenidos a la primera habitacion de nuestro juego de escape</h1>
+<h4>En esta habitacion van a tener que resolver un acertijo para finalmente ingresar la respuesta correcta y poder avanzar.</h4>
+<h5>Te vamos a dejar un camino hasta las finales, ustedes tienen que responder el equipo que creen que es.</h5>
+
+<img src="/imagenes/denver.png" width="700px" height="500px">
+<button onclick="alert('Pista 1: Este es uno de los equipos que no tienen anillo en la nba')"> Pista 1 </button>
+<button onclick="alert('Pista 2: La ciudad de este equipo es la que esta mas elevada sobre el nivel del mar')"> Pista 2 </button>
+
+<form action='@Url.Action("Habitacion","Home")'>
+<input type="text" name="Clave" required>
+<input type="hidden" name= "Sala" value="1">
+<p><input type="submit" value="Value" determined= "none"></p>
+<br>
+</form>
+@ViewBag.Error

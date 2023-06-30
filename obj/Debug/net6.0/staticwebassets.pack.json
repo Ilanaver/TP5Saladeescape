@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP5Saladeescape.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP5Saladeescape.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\imagenes\\0-1.jfif",
+      "PackagePath": "staticwebassets\\imagenes\\0-1.jfif"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\imagenes\\Pasqu.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\Pasqu.jpeg"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\imagenes\\Sala2.png",
+      "PackagePath": "staticwebassets\\imagenes\\Sala2.png"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\imagenes\\Sala3.png",
+      "PackagePath": "staticwebassets\\imagenes\\Sala3.png"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\imagenes\\Sala4.png",
+      "PackagePath": "staticwebassets\\imagenes\\Sala4.png"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\imagenes\\Thumbs.db",
+      "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\imagenes\\Toro.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\Toro.jpeg"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\imagenes\\Victoria.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Victoria.jpg"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\imagenes\\denver.png",
+      "PackagePath": "staticwebassets\\imagenes\\denver.png"
+    },
+    {
+      "Id": "Z:\\prog\\DESCARGA_ESTO_PASQU\\TP5Saladeescape\\TP5Saladeescape\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TP5Saladeescape.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TP5Saladeescape.props",
+      "PackagePath": "build\\TP5Saladeescape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TP5Saladeescape.props",
+      "PackagePath": "buildMultiTargeting\\TP5Saladeescape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TP5Saladeescape.props",
+      "PackagePath": "buildTransitive\\TP5Saladeescape.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
